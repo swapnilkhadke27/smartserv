@@ -1,0 +1,331 @@
+.padding_left{
+    padding-left : 0px;
+}
+.margin_top{
+    margin-top: 6px;
+}
+.margin_bottom{
+    margin-bottom: 2px;
+}
+.fontSize{
+    font-size: 12px;
+}
+.first_container{
+    background-color: blue;
+}
+.second_container{
+    background-color: yellow;
+}
+.list_header_style{
+    margin: 16px;
+}
+.list_header_item{
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+.icon_size{
+    height: 20px;
+    width: 20px;
+    color: white;
+}
+.list_background{
+    background-color: white;
+}
+.container_background{
+    background-color: rgb(238, 238, 238);
+    padding: 0px;
+    margin-right: 10px;
+}
+.border_style{
+    border: 1px solid rgba(0, 0, 0, 0.58);
+}
+.nav_title_style{
+    margin-top: 4px;
+    margin-bottom: 0px;
+    font-size: 9px;
+}
+.nav_background{
+    background-color: #3D3D3D;
+    box-shadow: 0px 5px 20px 0px #888888;
+    text-align: center;
+}
+.badge_style{
+    padding-top: 5px;
+    margin: 4px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    box-shadow: 0px 1px 1px 0px #888888;
+    font-size: 7px;
+    color: white;
+    font-weight: 100;
+}
+.padding_style{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.filter_style{
+    background-color: white;
+    border-color: black !important;
+}
+.filterItem_style{
+    padding-top: 16px;
+}
+.filter_title_style{
+    font-size: 13px;
+    color: #3D3D3D;
+    margin-bottom: 6px;
+}
+.filter_header{
+    font-size: 14px;
+    font-weight: 600;
+    color: black;
+    margin: 0px;
+    padding: 0px;
+    padding-top: 16px;
+}
+.height{
+    height: 60px;
+    /* background: cornflowerblue */
+}
+.badge_style_details{
+    font-size: 8px;
+    color: white;
+    margin: 4px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 6px;
+    padding-bottom: 8px;
+    font-weight: 100;
+    box-shadow: 0px 1px 3px 0px #888888;
+}
+.option_container_style{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left: 24px;
+    background-color: white;
+    box-shadow: 0px 1px 3px 0px #888888;
+    margin-top: 16px;
+}
+.option_style{
+    padding: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin: 8px;
+    background-color: white;
+    border-radius: 4px; 
+    border: 1px solid rgba(73, 73, 73, 0.58);
+}
+.header_container_style{
+    padding-top: 24px;
+}
+.padding_left{
+    padding-left: 0px;
+}
+.details_header_container{
+    margin-top: 16px;
+    background-color: white;
+    border: 1px solid rgba(175, 175, 175, 0.58);
+    margin-left: 12px;
+    padding: 16px;
+}
+.details_header{
+    margin-bottom: 0px;
+    font-weight: 600;
+    font-size: 14px;
+    font-size: 12px;
+}
+.sub_details_style{
+    color: #4e4e4e;
+    padding-top:2px;
+    margin-bottom: 0px;
+    font-size: 10px;
+}
+.top_margin{
+    padding-top: 18px;
+}
+.userdetailstitle{
+    font-weight: 600;
+    color: rgb(83, 83, 83);
+    font-size: 12px;
+    margin-bottom: 8px;
+}
+.userdetailssubtitle{
+    margin-bottom: 0px;
+    font-size: 12px;
+    font-weight: 400;
+}
+.user_input_style{
+    margin-top: 24px;
+    margin-left: 12px;
+    padding-right: 12px;
+}
+.user_details_container{
+    padding-bottom: 0px;
+}
+.other_details{
+    font-size: 14px;
+    font-weight: 600;
+}
+.date_style{
+    font-style: italic;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.separator_style{
+    height: 1px;
+    background-color: grey;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.other_details_container{
+    margin-top: 16px;
+    background-color: white;
+    border: 1px solid rgba(175, 175, 175, 0.58);
+    margin-left: 12px;
+    padding: 24px;   
+}
+.job_Status_style{
+    color: #79B84B;
+    font-weight: 800;
+    font-size: 13px;
+    padding-left: 8px;
+}
+.timeline_container{
+    background-color: #F9F9F9;
+    margin-top: 16px;
+    padding: 12px;
+    border: 1px solid rgba(226, 222, 222, 0.58);
+    font-size: 13px;
+}
+.center_align{
+    text-align: center;
+}
+.title_style{
+    font-size: 24px;
+    font-weight: 600;
+    padding-left: 32px;
+}
+.status_style{
+    padding-top: 8px;
+    justify-content: center;
+}
+.status_title{
+    font-size: 13px;
+}
+.complete_tag{
+    align-self: center;
+    padding-left: 36px;
+}
+.user_style{
+    font-size: 10px;
+    margin-bottom: 0px;
+    padding-top: 0px !important;
+}
+.complete_style{
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+.user_details_style{
+    justify-content: center;
+    padding-top: 8px;
+}
+.user_inner_details_container{
+    margin-top: 16px;
+    padding: 12px;
+    border: 1px solid rgba(36, 36, 36, 0.58);   
+}
+.btn_style{
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+    padding-left: 24px !important;
+    padding-right: 24px !important;
+    margin-top: 12px;
+    font-size: 10px;
+}
+.timeline_title{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 12px;
+}
+.timeline_array_container{
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.timeline_array_title:{
+    font-size: 12px;
+    color: black;
+    font-weight: 100;
+}
+.timeline_array_subtitle{
+    font-size: 10px;
+    color: #ababab;
+    font-weight: 100;
+}
+.header_background{
+    background-color: white;
+    padding: 12px;
+    font-weight: 600;
+    font-size: 13px;
+    justify-content: center;
+    align-items: center;
+}
+.action_btn_style{
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+    font-size: 10px;
+    margin-left: 12px;
+}
+.page_num{
+    margin-left: 12px;
+}
+.dashboardheader{
+    padding-top: 32px;
+    justify-content: center;
+    padding-bottom: 16px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+.input_text_style{
+    margin-left: 16px;
+    padding-left: 16px;
+}
+.custom_button{
+    background-color: #1D85D6;
+    color: white;
+    padding-left: 24px;
+    padding-right: 24px;
+    align-self: center;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-radius: 2px;
+}
+.date_title{
+    font-size: 10px;
+    color: grey;
+}
+.modal_header{
+    background-color: rgb(49, 49, 49);
+    padding: 16px;
+}
+.modal_text{
+    color: white;
+}
+.img_style{
+    height : 120;
+}
+.logo_style{
+    height: 48px;
+    width: 48px;
+    margin-left: 40px;
+    margin-right: 60px;
+}
+.img_style{
+    padding-left: 20px;
+    padding-right: 20px;
+}
